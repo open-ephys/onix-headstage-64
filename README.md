@@ -12,10 +12,4 @@ Serialized, multifunction headstage for wire electrode or silicon probe recordin
 ![headstage-64 revision 1.3](./resources/headstage-64_1r3_tether.jpg)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ![headstage-64 revision 1.1 with descriptions](./resources/headstage-64_1r1_callout.png)
