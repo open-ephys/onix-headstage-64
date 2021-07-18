@@ -9,5 +9,7 @@ Serialized, multifunction headstage for wire electrode or silicon probe recordin
 - Integrated real-time, room-scale 3D-position tracking
 - Integrated absolute orientation tracking
 
-![headstage-64 revision 1.3](./resources/headstage-64_1r3_tether.jpg.png)
+![headstage-64 revision 1.3](./resources/headstage-64_1r3_tether.jpg)
+<br>
+<br>
 ![headstage-64 revision 1.1 with descriptions](./resources/headstage-64_1r1_callout.png)
