@@ -535,7 +535,7 @@ JLC7628 Stackup
 <attribute name="PARTNO" value="CL05A475MO5NUNC" x="13.45" y="11.2" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
 <element name="J2" library="jonnew" package="HEADSTAGE-64-REV1.4-DAUGHTER-CARD-CASTELLATED" value="" x="15" y="10" smashed="yes"/>
-<element name="U2" library="jonnew" package="UDFN8-2X2" value="MAX4945AELA+T" x="15.6" y="12.1" smashed="yes" rot="MR180"/>
+<element name="U1" library="jonnew" package="UDFN8-2X2" value="MAX4945AELA+T" x="15.6" y="12.1" smashed="yes" rot="MR180"/>
 <element name="C3" library="jonnew" package="0603T" value="10uF" x="12.5" y="13.1" smashed="yes" rot="MR270">
 <attribute name="PARTNO" value="CL05A475MO5NUNC" x="12.5" y="13.1" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
@@ -611,7 +611,7 @@ JLC7628 Stackup
 <via x="13.96" y="13.17" extent="1-16" drill="0.2"/>
 <via x="16.51" y="13.12" extent="1-16" drill="0.2"/>
 <via x="16.26" y="10.82" extent="1-16" drill="0.2"/>
-<contactref element="U2" pad="5"/>
+<contactref element="U1" pad="5"/>
 <contactref element="C3" pad="2"/>
 <contactref element="C4" pad="2"/>
 <via x="13.51" y="12.72" extent="1-16" drill="0.2"/>
@@ -670,8 +670,8 @@ JLC7628 Stackup
 <contactref element="J2" pad="2"/>
 <contactref element="C1" pad="1"/>
 <wire x1="13.4" y1="10.15" x2="13.45" y2="10.1" width="0" layer="19" extent="1-16"/>
-<contactref element="U2" pad="2"/>
-<contactref element="U2" pad="1"/>
+<contactref element="U1" pad="2"/>
+<contactref element="U1" pad="1"/>
 <wire x1="13.45" y1="10.1" x2="13.45" y2="10.6666" width="0.4" layer="16"/>
 <wire x1="13.9834" y1="11.2" x2="13.45" y2="10.6666" width="0.4" layer="16"/>
 <wire x1="14.69" y1="11.85" x2="14.69" y2="11.35" width="0.3" layer="16"/>
@@ -681,9 +681,9 @@ JLC7628 Stackup
 <signal name="VCOAX">
 <contactref element="J2" pad="3"/>
 <contactref element="C2" pad="1"/>
-<contactref element="U2" pad="8"/>
-<contactref element="U2" pad="7"/>
-<contactref element="U2" pad="6"/>
+<contactref element="U1" pad="8"/>
+<contactref element="U1" pad="7"/>
+<contactref element="U1" pad="6"/>
 <contactref element="C4" pad="1"/>
 <contactref element="C3" pad="1"/>
 <wire x1="16.51" y1="12.35" x2="16.51" y2="11.85" width="0.3" layer="16"/>

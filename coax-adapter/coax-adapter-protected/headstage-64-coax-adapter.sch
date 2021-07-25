@@ -2227,7 +2227,7 @@ MCX STRAIGHT, EDGE MOUNT JACK - 50OHM.</description>
 <part name="SUPPLY2" library="jonnew" deviceset="GND" device=""/>
 <part name="SUPPLY6" library="jonnew" deviceset="GND" device=""/>
 <part name="J2" library="jonnew" deviceset="PINHD-1X5" device="_HEADSTAGE-64-REV1.4-DAUGHTER-CARD-CASTELLATED"/>
-<part name="U2" library="jonnew" deviceset="MAX494X" device="" value="MAX4945AELA+T"/>
+<part name="U1" library="jonnew" deviceset="MAX494X" device="" value="MAX4945AELA+T"/>
 <part name="C3" library="jonnew" deviceset="C" device="_0603T" value="10uF">
 <attribute name="PARTNO" value="CL05A475MO5NUNC"/>
 </part>
@@ -2262,7 +2262,7 @@ MCX STRAIGHT, EDGE MOUNT JACK - 50OHM.</description>
 <instance part="SUPPLY2" gate="PE" x="71.12" y="124.46"/>
 <instance part="SUPPLY6" gate="PE" x="134.62" y="124.46"/>
 <instance part="J2" gate="G$1" x="142.24" y="101.6"/>
-<instance part="U2" gate="G$1" x="91.44" y="142.24"/>
+<instance part="U1" gate="G$1" x="91.44" y="142.24"/>
 <instance part="C3" gate="C" x="121.92" y="147.32" smashed="yes" rot="MR0">
 <attribute name="PARTNO" x="121.92" y="147.32" size="1.27" layer="96" rot="MR0" display="off"/>
 <attribute name="NAME" x="120.396" y="147.701" size="1.778" layer="95" rot="MR0"/>
@@ -2328,7 +2328,7 @@ MCX STRAIGHT, EDGE MOUNT JACK - 50OHM.</description>
 <pinref part="C1" gate="C" pin="2"/>
 <wire x1="71.12" y1="142.24" x2="71.12" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="SUPPLY2" gate="PE" pin="GND"/>
-<pinref part="U2" gate="G$1" pin="GND"/>
+<pinref part="U1" gate="G$1" pin="GND"/>
 <wire x1="71.12" y1="129.54" x2="71.12" y2="127" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="129.54" x2="71.12" y2="129.54" width="0.1524" layer="91"/>
 <junction x="71.12" y="129.54"/>
@@ -2360,7 +2360,7 @@ MCX STRAIGHT, EDGE MOUNT JACK - 50OHM.</description>
 <wire x1="71.12" y1="154.94" x2="63.5" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="149.86" x2="71.12" y2="154.94" width="0.1524" layer="91"/>
 <label x="63.5" y="154.94" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="IN"/>
+<pinref part="U1" gate="G$1" pin="IN"/>
 <wire x1="71.12" y1="154.94" x2="78.74" y2="154.94" width="0.1524" layer="91"/>
 <junction x="71.12" y="154.94"/>
 </segment>
@@ -2380,7 +2380,7 @@ MCX STRAIGHT, EDGE MOUNT JACK - 50OHM.</description>
 <wire x1="134.62" y1="149.86" x2="134.62" y2="154.94" width="0.1524" layer="91"/>
 <junction x="134.62" y="154.94"/>
 <label x="142.24" y="154.94" size="1.27" layer="95" xref="yes"/>
-<pinref part="U2" gate="G$1" pin="OUT"/>
+<pinref part="U1" gate="G$1" pin="OUT"/>
 <pinref part="C4" gate="C" pin="1"/>
 <wire x1="111.76" y1="154.94" x2="111.76" y2="149.86" width="0.1524" layer="91"/>
 <junction x="111.76" y="154.94"/>
