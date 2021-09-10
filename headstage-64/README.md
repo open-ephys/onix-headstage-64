@@ -17,6 +17,8 @@ prototyping services.
 - 0.05 mm trace/space
 - Blind vias from layers 1-6 and layers 7-8
 - Through vias from layers 1-8
+- Via in pad
+- Epoxy-filled, plated over vias
 
 We have found [Speedy Circuits](https://www.speedy-circuits.com.tw/) to be very
 reliable and reasonably priced considering the requirements.
