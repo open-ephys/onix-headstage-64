@@ -5964,7 +5964,7 @@ Source: http://www.osram.convergy.de/ ... lb_r99a.pdf</description>
 </part>
 <part name="R25" library="jonnew" deviceset="R" device="_0201T" value="49.9"/>
 <part name="SUPPLY35" library="jonnew" deviceset="GND" device=""/>
-<part name="C24" library="jonnew" deviceset="C" device="_0402T" value="22uF">
+<part name="C24" library="jonnew" deviceset="C" device="_0402T" value="15uF">
 <attribute name="PARTNO" value="CL05A226MQ5QUNC"/>
 </part>
 <part name="SUPPLY36" library="jonnew" deviceset="GND" device=""/>
@@ -6084,7 +6084,7 @@ Source: http://www.osram.convergy.de/ ... lb_r99a.pdf</description>
 <part name="C49" library="jonnew" deviceset="C" device="_0201T" value="1uF">
 <attribute name="PARTNO" value="CL03A105MP3ZSNH"/>
 </part>
-<part name="C73" library="jonnew" deviceset="C" device="_0402T" value="22uF">
+<part name="C73" library="jonnew" deviceset="C" device="_0402T" value="15uF">
 <attribute name="PARTNO" value="CL05A226MQ6ZUN8"/>
 </part>
 <part name="C56" library="jonnew" deviceset="C" device="_0402T" value="10uF">

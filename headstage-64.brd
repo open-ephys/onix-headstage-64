@@ -1322,7 +1322,7 @@ einem neuen Namen ab.</description>
 <attribute name="PARTNO" value="C1005X7R1H473K050BB" x="4" y="-0.15" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R25" library="jonnew" package="0201T" value="49.9" x="3.05" y="-0.15" smashed="yes"/>
-<element name="C24" library="jonnew" package="0402T" value="22uF" x="-0.61" y="-1.12" smashed="yes" rot="R180">
+<element name="C24" library="jonnew" package="0402T" value="15uF" x="-0.61" y="-1.12" smashed="yes" rot="R180">
 <attribute name="PARTNO" value="CL05A226MQ5QUNC" x="-0.61" y="-1.12" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R33" library="jonnew" package="0201T" value="10k" x="7.4" y="-1.1" smashed="yes" rot="R180"/>
@@ -1421,7 +1421,7 @@ einem neuen Namen ab.</description>
 <element name="C49" library="jonnew" package="0201T" value="1uF" x="-0.2658" y="6.2596" smashed="yes" rot="MR0">
 <attribute name="PARTNO" value="CL03A105MP3ZSNH" x="-0.2658" y="6.2596" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="C73" library="jonnew" package="0402T" value="22uF" x="7.26" y="3.53" smashed="yes" rot="R180">
+<element name="C73" library="jonnew" package="0402T" value="15uF" x="7.26" y="3.53" smashed="yes" rot="R180">
 <attribute name="PARTNO" value="CL05A226MQ6ZUN8" x="7.26" y="3.53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C56" library="jonnew" package="0402T" value="10uF" x="2.94" y="3.33" smashed="yes" rot="R180">
